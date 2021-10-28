@@ -1,0 +1,171 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App10.Views.TestPage"
+             Title="Configuration"
+             BackgroundColor="#F0FFFF">
+
+    <ScrollView Grid.Row="1">
+        <!--卷軸-->
+        <StackLayout>
+            <!--設定以下所有Stacklayout離左邊12點距離-->
+
+            <Label Text="Events" TextColor="	#708090" FontSize="30" FontAttributes="Bold" Margin="10,10,0,0"/>
+            <!--小標Event並設定大小、粗體等-->
+
+            <BoxView Grid.Row="1" Grid.ColumnSpan="3" HorizontalOptions="FillAndExpand" BackgroundColor="	#778899	" HeightRequest="2"/>
+            <StackLayout Orientation="Horizontal">
+                <!--<Image Source="click.png" Margin="20,10,0,0"></Image>-->
+                <Button Text="Setup event" Clicked="btn_Setup" FontSize="20" HorizontalOptions="StartAndExpand" Margin="20,10,0,0"/>
+                <!--按鈕-->
+            </StackLayout>
+
+            <StackLayout>
+                <Label Text="Customize your class names and pictures." FontSize="15" Margin="20,0,0,10"/>
+                <!--按鈕以下註解並調整與下面間距-->
+            </StackLayout>
+
+            <!--<StackLayout>
+                <Label Text="Show Event Summary" FontSize="20" TextColor="#40E0D0" HorizontalOptions="StartAndExpand"/>
+                --><!--Switch的文字以label呈現--><!--
+                <Switch IsToggled="True" OnColor="#20B2AA" ThumbColor="#006400"  Margin="0,-30,0,0" HorizontalOptions="End"/>
+                --><!--switch並設定顏色及對齊左邊label--><!--
+            </StackLayout>
+
+            <StackLayout>
+                <BoxView HorizontalOptions="FillAndExpand" BackgroundColor="#006400" HeightRequest="2" Margin="0,10,0,10"/>
+                --><!--水平線與上下間距及其顏色粗細--><!--
+            </StackLayout>
+
+            <StackLayout>
+                <Label Text="Picture Settings" TextColor="#006400" FontSize="20" FontAttributes="Bold"/>
+                --><!--小標Pic設定大小粗體--><!--
+            </StackLayout>
+
+            <StackLayout>
+                <Label Text="Show Pictures" FontSize="20" TextColor="#40E0D0" HorizontalOptions="StartAndExpand" Margin="0,10,0,0"/>
+                --><!--Switch的文字以label呈現--><!--
+                <Switch IsToggled="True" OnColor="#20B2AA" ThumbColor="#006400"  Margin="0,-30,0,0" HorizontalOptions="End"/>
+                --><!--switch並設定顏色及對齊左邊label--><!--
+            </StackLayout>
+
+            <StackLayout>
+                <Label Text="Picture Size" FontSize="20" TextColor="#40E0D0" HorizontalOptions="StartAndExpand" Margin="0,10,0,0"/>
+                --><!--label及其設定--><!--
+                <Picker x:Name="picker" Title="Picture Size" HorizontalOptions="EndAndExpand" Margin="0,-40,0,0">
+                    --><!--選擇工具及位置--><!--
+                    <Picker.ItemsSource>
+                        --><!--以陣列方式加入選擇容器內--><!--
+                        <x:Array Type="{x:Type x:String}">
+                            <x:String>Extra Small</x:String>
+                            <x:String>Small</x:String>
+                            <x:String>Medium</x:String>
+                            <x:String>Large</x:String>
+                            <x:String>Extra Large</x:String>
+                        </x:Array>
+                    </Picker.ItemsSource>
+                </Picker>
+            </StackLayout>
+
+            <StackLayout>
+                <BoxView HorizontalOptions="FillAndExpand" BackgroundColor="#006400" HeightRequest="2" Margin="0,10,0,10"/>
+                --><!--水平線與上下間距及其顏色粗細--><!--
+            </StackLayout>
+
+            <StackLayout>
+                <Label Text="Class Display Settings" TextColor="#006400" FontSize="20" FontAttributes="Bold"/>
+                --><!--小標--><!--
+            </StackLayout>
+
+            <StackLayout>
+                <Label Text="Font Size" FontSize="20" TextColor="#40E0D0" HorizontalOptions="StartAndExpand" Margin="0,10,0,0"/>
+                --><!--Label--><!--
+                <Picker x:Name="Picker1" Title="Font Size" HorizontalOptions="EndAndExpand" Margin="0,-40,0,0">
+                    --><!--選擇工具及位置--><!--
+                    <Picker.ItemsSource>
+                        --><!--陣列塞入--><!--
+                        <x:Array Type="{x:Type x:String}">
+                            <x:String>Extra Small</x:String>
+                            <x:String>Small</x:String>
+                            <x:String>Medium</x:String>
+                            <x:String>Large</x:String>
+                            <x:String>Extra Large</x:String>
+                        </x:Array>
+                    </Picker.ItemsSource>
+                </Picker>
+            </StackLayout>
+
+            <StackLayout>
+                <Label Text="Format" FontSize="20" TextColor="#40E0D0" HorizontalOptions="StartAndExpand" Margin="0,10,0,0"/>
+                --><!--label--><!--
+                <Picker x:Name="Picker2" Title="Class Display Format" HorizontalOptions="EndAndExpand" Margin="0,-40,0,0">
+                    --><!--選擇工具及位置--><!--
+                    <Picker.ItemsSource>
+                        --><!--陣列塞入--><!--
+                        <x:Array Type="{x:Type x:String}">
+                            <x:String>Class name</x:String>
+                            <x:String>Class ID</x:String>
+                            <x:String>Both</x:String>
+                        </x:Array>
+                    </Picker.ItemsSource>
+                </Picker>
+            </StackLayout>
+
+            <StackLayout>
+                <BoxView HorizontalOptions="FillAndExpand" BackgroundColor="#006400" HeightRequest="2" Margin="0,10,0,10"/>
+                --><!--水平線與上下間距及其顏色粗細--><!--
+            </StackLayout>
+
+            <StackLayout>
+                <Label Text="Model Display Settings" TextColor="#006400" FontSize="20" FontAttributes="Bold"/>
+            </StackLayout>
+
+            <StackLayout>
+                <Label Text="Show Models" FontSize="20" TextColor="#40E0D0" HorizontalOptions="StartAndExpand" Margin="0,10,0,0"/>
+                <Switch IsToggled="True" OnColor="#20B2AA" ThumbColor="#006400"  Margin="0,-30,0,0" HorizontalOptions="End"/>
+            </StackLayout>
+
+            <StackLayout>
+                <Label Text="Format" FontSize="20" TextColor="#40E0D0" HorizontalOptions="StartAndExpand" Margin="0,10,0,0"/>
+                --><!--label--><!--
+                <Picker x:Name="Picker3" Title="Model Display Format" HorizontalOptions="EndAndExpand" Margin="0,-40,0,0">
+                    --><!--選擇工具及位置--><!--
+                    <Picker.ItemsSource>
+                        --><!--陣列塞入--><!--
+                        <x:Array Type="{x:Type x:String}">
+                            <x:String>Class name</x:String>
+                            <x:String>Class ID</x:String>
+                            <x:String>Both</x:String>
+                        </x:Array>
+                    </Picker.ItemsSource>
+                </Picker>
+            </StackLayout>
+
+            <StackLayout>
+                <BoxView HorizontalOptions="FillAndExpand" BackgroundColor="#006400" HeightRequest="2" Margin="0,10,0,10"/>
+                --><!--水平線與上下間距及其顏色粗細--><!--
+            </StackLayout>
+
+            <StackLayout>
+                <Label Text="Post-Processing Settings" TextColor="#006400" FontSize="20" FontAttributes="Bold"/>
+                --><!--小標--><!--
+            </StackLayout>
+
+            <StackLayout>
+                <Label Text="Enable" FontSize="20" TextColor="#40E0D0" HorizontalOptions="StartAndExpand" Margin="0,10,0,0"/>
+                --><!--設置Label--><!--
+                <Switch IsToggled="True" OnColor="#20B2AA" ThumbColor="#006400"  Margin="0,-30,0,0" HorizontalOptions="End"/>
+                --><!--設置switch--><!--
+                <Label Text="Use a majority vote algorithm over events in the buffer to determine the current classification." FontSize="15" Margin="0,-10,0,10"/>
+                --><!--設置註解--><!--
+            </StackLayout>
+
+            <StackLayout>
+                <Button Text="Buffer" FontSize="20" TextColor="#40E0D0" Background="white" HorizontalOptions="StartAndExpand" Margin="-12,0,0,0"/>
+                <Button Text="Stride" FontSize="20" TextColor="#40E0D0" Background="white" HorizontalOptions="StartAndExpand" Margin="-12,0,0,0"/>
+                --><!--button設置--><!--
+            </StackLayout>-->
+
+        </StackLayout>
+    </ScrollView>
+</ContentPage>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App10.Views.SerialPortPage"
+             Title="Serial Devices">
+    <ContentPage.Content>
+        <StackLayout Margin="12,0,0,0">
+            <Label Text="Click the button to scanning" x:Name="con_scan" Margin="0,20,0,0" FontSize="25" TextColor="#40E0D0"/>
+            <Button Text="Scan for serial devices" x:Name="x_btn_SerialScan" Clicked="btn_SerialScan" Margin="0,20,12,20" FontSize="16"/>
+            <ListView x:Name="foundSerialDevicesListView" ItemTapped="foundSerialDevicesListView_ItemTapped"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

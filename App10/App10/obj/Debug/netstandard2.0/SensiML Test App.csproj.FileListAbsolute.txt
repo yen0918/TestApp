@@ -1,0 +1,48 @@
+D:\Xamarin\App10\App10\App10\App10\bin\Debug\netstandard2.0\SensiML Test App.deps.json
+D:\Xamarin\App10\App10\App10\App10\bin\Debug\netstandard2.0\SensiML Test App.dll
+D:\Xamarin\App10\App10\App10\App10\bin\Debug\netstandard2.0\ref\SensiML Test App.dll
+D:\Xamarin\App10\App10\App10\App10\bin\Debug\netstandard2.0\SensiML Test App.pdb
+D:\Xamarin\App10\App10\App10\App10\bin\Debug\netstandard2.0\Mono.Android.dll
+D:\Xamarin\App10\App10\App10\App10\bin\Debug\netstandard2.0\Mono.Android.pdb
+D:\Xamarin\App10\App10\App10\App10\bin\Debug\netstandard2.0\Mono.Android.xml
+D:\Xamarin\App10\App10\App10\App10\obj\Debug\netstandard2.0\SensiML Test App.csprojAssemblyReference.cache
+D:\Xamarin\App10\App10\App10\App10\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Xamarin\App10\App10\App10\App10\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+D:\Xamarin\App10\App10\App10\App10\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+D:\Xamarin\App10\App10\App10\App10\obj\Debug\netstandard2.0\Views\ImportPage.xaml.g.cs
+D:\Xamarin\App10\App10\App10\App10\obj\Debug\netstandard2.0\Views\Scaning.xaml.g.cs
+D:\Xamarin\App10\App10\App10\App10\obj\Debug\netstandard2.0\Views\SerialPortPage.xaml.g.cs
+D:\Xamarin\App10\App10\App10\App10\obj\Debug\netstandard2.0\Views\SettingPage.xaml.g.cs
+D:\Xamarin\App10\App10\App10\App10\obj\Debug\netstandard2.0\Views\SetupEvent.xaml.g.cs
+D:\Xamarin\App10\App10\App10\App10\obj\Debug\netstandard2.0\SensiML Test App.AssemblyInfoInputs.cache
+D:\Xamarin\App10\App10\App10\App10\obj\Debug\netstandard2.0\SensiML Test App.AssemblyInfo.cs
+D:\Xamarin\App10\App10\App10\App10\obj\Debug\netstandard2.0\SensiML Test App.csproj.CoreCompileInputs.cache
+D:\Xamarin\App10\App10\App10\App10\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Xamarin\App10\App10\App10\App10\obj\Debug\netstandard2.0\SensiML Test App.csproj.CopyComplete
+D:\Xamarin\App10\App10\App10\App10\obj\Debug\netstandard2.0\SensiML Test App.dll
+D:\Xamarin\App10\App10\App10\App10\obj\Debug\netstandard2.0\ref\SensiML Test App.dll
+D:\Xamarin\App10\App10\App10\App10\obj\Debug\netstandard2.0\SensiML Test App.pdb
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10\obj\Debug\netstandard2.0\SensiML Test App.csprojAssemblyReference.cache
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10\obj\Debug\netstandard2.0\Views\ImportPage.xaml.g.cs
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10\obj\Debug\netstandard2.0\Views\Scaning.xaml.g.cs
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10\obj\Debug\netstandard2.0\Views\SerialPortPage.xaml.g.cs
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10\obj\Debug\netstandard2.0\Views\SettingPage.xaml.g.cs
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10\obj\Debug\netstandard2.0\Views\SetupEvent.xaml.g.cs
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10\obj\Debug\netstandard2.0\SensiML Test App.AssemblyInfoInputs.cache
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10\obj\Debug\netstandard2.0\SensiML Test App.AssemblyInfo.cs
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10\obj\Debug\netstandard2.0\SensiML Test App.csproj.CoreCompileInputs.cache
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10\obj\Debug\netstandard2.0\SensiML Test App.dll
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10\obj\Debug\netstandard2.0\ref\SensiML Test App.dll
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10\obj\Debug\netstandard2.0\SensiML Test App.pdb
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10\bin\Debug\netstandard2.0\SensiML Test App.deps.json
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10\bin\Debug\netstandard2.0\SensiML Test App.dll
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10\bin\Debug\netstandard2.0\ref\SensiML Test App.dll
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10\bin\Debug\netstandard2.0\SensiML Test App.pdb
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10\bin\Debug\netstandard2.0\Mono.Android.dll
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10\bin\Debug\netstandard2.0\Mono.Android.pdb
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10\bin\Debug\netstandard2.0\Mono.Android.xml
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10\obj\Debug\netstandard2.0\SensiML Test App.csproj.CopyComplete

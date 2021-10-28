@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App10.Views.Scaning"
+             Title="Bluetooth Devices"
+             BackgroundColor="#F0FFFF">
+    <ContentPage.Content>
+        <ScrollView Grid.Row="1">
+            <StackLayout Margin="12,0,0,0">
+
+                <StackLayout>
+                    <Label Text="Click the button to scanning" x:Name="con_scan" Margin="0,20,0,0" FontSize="25" TextColor="	#708090"/>
+                    <!--label設置-->
+                    <ActivityIndicator x:Name="AI" IsVisible="false" Color="Red" HorizontalOptions="Start" Margin="110,-35,0,0" HeightRequest="30"/>
+                    <!--加入loading物件並起個C#名稱-->
+                </StackLayout>
+                <Button x:Name="ControlButton" Text="Scan" HorizontalOptions="StartAndExpand" Margin="0,20,0,20" Clicked= "StartScanning" />
+                    <!--設置停止、偵測按鈕並加入點擊事件及後端名稱-->
+                    <Label Text="Device-Name" FontSize="19" x:Name="lab_Scan" FontAttributes="Bold" IsVisible="false"/>
+                <ListView x:Name="foundBleDevicesListView"
+                      Header=""
+                      Footer=""
+                      HeightRequest="150"
+                      ItemTapped="FoundBluetoothDevicesListView_ItemTapped" 
+                      Margin="0,0,12,0"
+                      SeparatorColor = "Black">
+                    <!--<ListView.ItemTemplate>
+                        <DataTemplate>
+                            <TextCell Text="" TextColor="Green"/>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>-->
+                </ListView>
+                <Label Text="Device-Adress" FontSize="19" x:Name="lab_Scan_1" FontAttributes="Bold" IsVisible="false"/>
+                <ListView x:Name="native"
+                              Header=""
+                              Footer="" 
+                              HeightRequest="400"
+                              ItemTapped="FoundNativeDevice"
+                              Margin="0,0,12,0"
+                              SeparatorColor = "Black">
+                </ListView>
+
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,1202 @@
+D:\Xamarin\App10\App10\App10\App10.Android\bin\Debug\App10.Android.dll
+D:\Xamarin\App10\App10\App10\App10.Android\bin\Debug\App10.Android.pdb
+D:\Xamarin\App10\App10\App10\App10.Android\bin\Debug\com.companyname.app10.apk
+D:\Xamarin\App10\App10\App10\App10.Android\bin\Debug\com.companyname.app10.aab
+D:\Xamarin\App10\App10\App10\App10.Android\bin\Debug\com.companyname.app10-Signed.aab
+D:\Xamarin\App10\App10\App10\App10.Android\bin\Debug\com.companyname.app10-Signed.apk
+D:\Xamarin\App10\App10\App10\App10.Android\bin\Debug\com.companyname.app10-Signed.apk.idsig
+D:\Xamarin\App10\App10\App10\App10.Android\bin\Debug\SensiML Test App.dll
+D:\Xamarin\App10\App10\App10\App10.Android\bin\Debug\SensiML Test App.pdb
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\MonoAndroid,Version=v11.0.AssemblyAttributes.cs
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\build.props
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\adb.props
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\SensiML BLE Test App.Android.csprojAssemblyReference.cache
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\stamp\_BuildLibraryImportsCache.stamp
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\res.flag
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\lp\46\jl\files.cache
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\lp\47\jl\files.cache
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\lp\52\jl\files.cache
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\lp\53\jl\files.cache
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\lp\56\jl\files.cache
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\lp\57\jl\files.cache
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\lp\64\jl\files.cache
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\lp\65\jl\files.cache
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\lp\69\jl\files.cache
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\lp\70\jl\files.cache
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\lp\72\jl\files.cache
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\lp\73\jl\files.cache
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\lp\74\jl\files.cache
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\lp\75\jl\files.cache
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\lp\77\jl\files.cache
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\lp\78\jl\files.cache
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\lp\81\jl\files.cache
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\lp\89\jl\files.cache
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\R.txt
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\R.cs.flag
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\SensiML BLE Test App.Android.csproj.CoreCompileInputs.cache
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\SensiML BLE Test App.Android.csproj.CopyComplete
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\App10.Android.dll
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\App10.Android.pdb
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\bin\com.companyname.app10.apk
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\bin\base.zip
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\bin\com.companyname.app10.aab
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\bin\com.companyname.app10.apks
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\res\values\styles.xml
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\res\values\colors.xml
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\res\mipmap-anydpi-v26\icon.xml
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\res\mipmap-anydpi-v26\icon_round.xml
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\res\mipmap-hdpi\icon.png
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\res\mipmap-hdpi\launcher_foreground.png
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\res\mipmap-mdpi\icon.png
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\res\mipmap-mdpi\launcher_foreground.png
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\res\mipmap-xhdpi\icon.png
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\res\mipmap-xhdpi\launcher_foreground.png
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\res\mipmap-xxhdpi\icon.png
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\res\mipmap-xxhdpi\launcher_foreground.png
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\res\mipmap-xxxhdpi\icon.png
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\res\mipmap-xxxhdpi\launcher_foreground.png
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\res\drawable\xamarin_logo.png
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\res\drawable\icon_about.png
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\res\drawable\icon_feed.png
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\res\drawable\settings.png
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\uploadflags.txt
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\resolvedassemblies.hash
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\App10.Android.dll
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\App10.Android.pdb
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\FormsViewGroup.dll
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\FormsViewGroup.pdb
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\Java.Interop.dll
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\Mono.Android.dll
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\Mono.Android.pdb
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\Mono.Security.dll
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\Mono.Security.pdb
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\mscorlib.dll
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\mscorlib.pdb
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\netstandard.dll
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\Newtonsoft.Json.dll
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\Plugin.BLE.Abstractions.dll
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\Plugin.BLE.Abstractions.pdb
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\Plugin.BLE.dll
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\Plugin.BLE.dll.mdb
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\Rg.Plugins.Popup.dll
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\Rg.Plugins.Popup.pdb
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\SensiML Test App.dll
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\SensiML Test App.pdb
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\System.ComponentModel.Composition.dll
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\System.ComponentModel.Composition.pdb
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\System.Core.dll
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\System.Core.pdb
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\System.Data.DataSetExtensions.dll
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\System.Data.DataSetExtensions.pdb
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\System.Data.dll
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\System.Data.pdb
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\System.dll
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\System.Drawing.Common.dll
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\System.Drawing.Common.pdb
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\System.IO.Compression.dll
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\System.IO.Compression.FileSystem.dll
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\System.IO.Compression.FileSystem.pdb
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\System.IO.Compression.pdb
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\System.Net.Http.dll
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\System.Net.Http.pdb
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\System.Numerics.dll
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\System.Numerics.pdb
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\System.Numerics.Vectors.dll
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\System.Numerics.Vectors.pdb
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\System.pdb
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\System.Runtime.dll
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\System.Runtime.Serialization.dll
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\System.Runtime.Serialization.pdb
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\System.ServiceModel.Internals.dll
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\System.ServiceModel.Internals.pdb
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\System.Transactions.dll
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\System.Transactions.pdb
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\System.Web.Services.dll
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\System.Web.Services.pdb
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\System.Xml.dll
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\System.Xml.Linq.dll
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\System.Xml.Linq.pdb
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\System.Xml.pdb
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Activity.dll
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Activity.pdb
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Annotation.dll
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Annotation.Experimental.dll
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Annotation.Experimental.pdb
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Annotation.pdb
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.AppCompat.AppCompatResources.dll
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.AppCompat.AppCompatResources.pdb
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.AppCompat.dll
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.AppCompat.pdb
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Arch.Core.Common.dll
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Arch.Core.Common.pdb
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Arch.Core.Runtime.dll
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Arch.Core.Runtime.pdb
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.AsyncLayoutInflater.dll
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.AsyncLayoutInflater.pdb
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Browser.dll
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Browser.pdb
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.CardView.dll
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.CardView.pdb
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Collection.dll
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Collection.pdb
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.CoordinatorLayout.dll
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.CoordinatorLayout.pdb
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Core.dll
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Core.pdb
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.CursorAdapter.dll
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.CursorAdapter.pdb
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.CustomView.dll
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.CustomView.pdb
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.DocumentFile.dll
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.DocumentFile.pdb
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.DrawerLayout.dll
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.DrawerLayout.pdb
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Fragment.dll
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Fragment.pdb
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Interpolator.dll
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Interpolator.pdb
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Legacy.Support.Core.UI.dll
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Legacy.Support.Core.UI.pdb
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Legacy.Support.Core.Utils.dll
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Legacy.Support.Core.Utils.pdb
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Legacy.Support.V4.dll
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Legacy.Support.V4.pdb
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.Common.dll
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.Common.pdb
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.Core.dll
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.Core.pdb
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.dll
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.pdb
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.Runtime.dll
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.Runtime.pdb
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.ViewModel.dll
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.ViewModel.pdb
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.ViewModelSavedState.dll
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.ViewModelSavedState.pdb
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Loader.dll
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Loader.pdb
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.LocalBroadcastManager.dll
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.LocalBroadcastManager.pdb
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Media.dll
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Media.pdb
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.MultiDex.dll
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.MultiDex.pdb
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Print.dll
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Print.pdb
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.RecyclerView.dll
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.RecyclerView.pdb
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.SavedState.dll
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.SavedState.pdb
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.SlidingPaneLayout.dll
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.SlidingPaneLayout.pdb
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.SwipeRefreshLayout.dll
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.SwipeRefreshLayout.pdb
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Transition.dll
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Transition.pdb
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.VectorDrawable.Animated.dll
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.VectorDrawable.Animated.pdb
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.VectorDrawable.dll
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.VectorDrawable.pdb
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.VersionedParcelable.dll
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.VersionedParcelable.pdb
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.ViewPager.dll
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.ViewPager.pdb
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.ViewPager2.dll
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.ViewPager2.pdb
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.Essentials.dll
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.Essentials.pdb
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.Forms.Core.dll
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.Forms.Core.pdb
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.Forms.Platform.Android.dll
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.Forms.Platform.Android.pdb
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.Forms.Platform.dll
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.Forms.Xaml.dll
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.Forms.Xaml.pdb
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.Google.Android.Material.dll
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.Google.Android.Material.pdb
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.Google.Guava.ListenableFuture.dll
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\typemaps.arm64-v8a.s
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\typemaps.armeabi-v7a.s
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\typemaps.x86.s
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\typemaps.x86_64.s
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\typemaps.armeabi-v7a-shared.inc
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\typemaps.shared.inc
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\AndroidManifest.xml
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\AndroidManifest.xml
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\__environment__.txt
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\mono\MonoRuntimeProvider.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\assets\machine.config
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\bin\mono.android.jar
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\static.flag
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\buildid.txt
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\environment.arm64-v8a.s
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\environment.armeabi-v7a.s
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\environment.x86.s
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\environment.x86_64.s
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnCancelListenerImplementor.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnClickListenerImplementor.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\androidx\appcompat\R.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\androidx\appcompat\resources\R.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\androidx\appcompat\widget\Toolbar_NavigationOnClickEventDispatcher.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\androidx\browser\customtabs\CustomTabsClient_CustomTabsCallbackImpl.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\androidx\browser\R.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\androidx\cardview\R.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\androidx\coordinatorlayout\R.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\androidx\core\R.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\androidx\drawerlayout\R.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\androidx\fragment\R.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\androidx\lifecycle\runtime\R.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\androidx\media\R.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\androidx\recyclerview\R.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\androidx\savedstate\R.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\androidx\swiperefreshlayout\R.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\androidx\transition\R.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\androidx\viewpager2\R.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\com\google\android\material\R.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\com\google\android\material\snackbar\Snackbar_SnackbarActionClickImplementor.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc64087678da79fdfe22\BluetoothStatusBroadcastReceiver.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc64087678da79fdfe22\BondStatusBroadcastReceiver.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc640d7c6d57b8a5f296\Adapter_Api18BleScanCallback.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc640d7c6d57b8a5f296\Adapter_Api21BleScanCallback.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc640d7c6d57b8a5f296\GattCallback.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc6414252951f3f66c67\CarouselViewAdapter_2.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc6414252951f3f66c67\RecyclerViewScrollListener_2.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc64396a3fe5f8138e3f\CustomTabsServiceConnectionImpl.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc64396a3fe5f8138e3f\KeepAliveService.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643dd37f507f3d9710\PopupPageRenderer.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ActionSheetRenderer.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ActivityIndicatorRenderer.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\AHorizontalScrollView.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\AndroidActivity.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\BaseCellView.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\BorderDrawable.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\BoxRenderer.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ButtonRenderer.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonClickListener.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonTouchListener.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CarouselPageAdapter.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CarouselPageRenderer.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CarouselSpacingItemDecoration.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer_CarouselViewOnScrollListener.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer_CarouselViewwOnGlobalLayoutListener.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CellAdapter.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CellRenderer_RendererHolder.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CenterSnapHelper.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CheckBoxDesignerRenderer.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CheckBoxRenderer.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CheckBoxRendererBase.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CircularProgress.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CollectionViewRenderer.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ColorChangeRevealDrawable.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ConditionalFocusLayout.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ContainerView.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CustomFrameLayout.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\DataChangeObserver.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\DatePickerRenderer.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\DatePickerRendererBase_1.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\DragAndDropGestureHandler.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\DragAndDropGestureHandler_CustomLocalStateData.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EdgeSnapHelper.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EditorEditText.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EditorRenderer.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EditorRendererBase_1.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EllipseRenderer.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EllipseView.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EmptyViewAdapter.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EndSingleSnapHelper.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EndSnapHelper.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EntryAccessibilityDelegate.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EntryCellEditText.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EntryCellView.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EntryEditText.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EntryRenderer.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EntryRendererBase_1.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FlyoutPageContainer.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FlyoutPageRenderer.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FlyoutPageRendererNonAppCompat.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_FontSpan.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_LineHeightSpan.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_TextDecorationSpan.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FormsAnimationDrawable.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FormsAppCompatActivity.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FormsApplicationActivity.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FormsEditText.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FormsEditTextBase.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FormsImageView.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FormsSeekBar.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FormsTextView.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FormsVideoView.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FormsWebChromeClient.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FormsWebViewClient.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FrameRenderer.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FrameRenderer_FrameDrawable.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\GenericAnimatorListener.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\GenericGlobalLayoutListener.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\GenericMenuClickListener.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\GestureManager_TapAndPanGestureDetector.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\GradientStrokeDrawable.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\GradientStrokeDrawable_GradientShaderFactory.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\GridLayoutSpanSizeLookup.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\GroupableItemsViewAdapter_2.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\GroupableItemsViewRenderer_3.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\GroupedListViewAdapter.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ImageButtonRenderer.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ImageCache_CacheEntry.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ImageCache_FormsLruCache.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ImageRenderer.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\IndicatorViewRenderer.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\InnerGestureListener.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\InnerScaleListener.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ItemContentView.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ItemsViewAdapter_2.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ItemsViewRenderer_3.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\LabelRenderer.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\LineRenderer.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\LineView.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ListViewAdapter.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ListViewRenderer.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ListViewRenderer_Container.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ListViewRenderer_ListViewScrollDetector.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ListViewRenderer_SwipeRefreshLayoutWithFixedNestedScrolling.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\LocalizedDigitsKeyListener.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\MasterDetailContainer.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\MasterDetailRenderer.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\NativeViewWrapperRenderer.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\NavigationRenderer.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\NongreedySnapHelper.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\NongreedySnapHelper_InitialScrollListener.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ObjectJavaBox_1.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer_Renderer.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PageContainer.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedFragment.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedSupportFragment.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PageRenderer.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PathRenderer.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PathView.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PickerEditText.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PickerManager_PickerListener.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PickerRenderer.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PlatformRenderer.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\Platform_DefaultRenderer.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PolygonRenderer.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PolygonView.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PolylineRenderer.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PolylineView.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PositionalSmoothScroller.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PowerSaveModeBroadcastReceiver.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ProgressBarRenderer.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\RadioButtonRenderer.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\RectangleRenderer.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\RectView.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\RecyclerViewContainer.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\RefreshViewRenderer.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ScrollHelper.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ScrollLayoutManager.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ScrollViewContainer.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ScrollViewRenderer.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\SearchBarRenderer.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\SelectableItemsViewAdapter_2.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\SelectableItemsViewRenderer_3.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\SelectableViewHolder.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShapeRenderer_2.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShapeView.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellContentFragment.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellFlyoutLayout.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_ElementViewHolder.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_LinearLayoutWithFocus.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellFlyoutRenderer.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer_HeaderContainer.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellFragmentPagerAdapter.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellItemRenderer.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellItemRendererBase.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellPageContainer.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellRenderer_SplitDrawable.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellSearchView.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_CustomFilter.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_ObjectWrapper.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellSearchView_ClipDrawableWrapper.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellSectionRenderer.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker_FlyoutIconDrawerDrawable.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\SimpleViewHolder.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\SingleSnapHelper.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\SizedItemContentView.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\SliderRenderer.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\SpacingItemDecoration.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\StartSingleSnapHelper.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\StartSnapHelper.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\StepperRenderer.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\StepperRendererManager_StepperListener.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\StructuredItemsViewAdapter_2.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\StructuredItemsViewRenderer_3.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\SwipeViewRenderer.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\SwitchCellView.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\SwitchRenderer.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\TabbedRenderer.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\TableViewModelRenderer.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\TableViewRenderer.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\TemplatedItemViewHolder.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\TextCellRenderer_TextCellView.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\TextViewHolder.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\TimePickerRenderer.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\TimePickerRendererBase_1.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer_LongPressGestureListener.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer_TapGestureListener.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ViewRenderer.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ViewRenderer_2.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\VisualElementRenderer_1.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\VisualElementTracker_AttachTracker.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\WebViewRenderer.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\WebViewRenderer_JavascriptResult.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\ButtonRenderer.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\CarouselPageRenderer.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\FormsFragmentPagerAdapter_1.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\FormsViewPager.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\FragmentContainer.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\FrameRenderer.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\MasterDetailPageRenderer.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_ClickListener.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_Container.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_DrawerMultiplexedListener.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\PickerRenderer.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\PickerRendererBase_1.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\Platform_ModalContainer.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\ShellFragmentContainer.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\SwitchRenderer.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\TabbedPageRenderer.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\ViewRenderer_2.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\AccelerometerListener.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\ActivityLifecycleContextListener.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\BarometerListener.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\BatteryBroadcastReceiver.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\ClipboardChangeListener.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\ConnectivityBroadcastReceiver.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\EnergySaverBroadcastReceiver.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\GyroscopeListener.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\IntermediateActivity.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\Listener.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\MagnetometerListener.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\OrientationSensorListener.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\SensorListener.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\SingleLocationListener.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\TextToSpeechImplementation.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\WebAuthenticatorCallbackActivity.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\WebAuthenticatorIntermediateActivity.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc64a25b61d9f8ee364f\FloatArrayEvaluator.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc64a25b61d9f8ee364f\RectEvaluator.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc64a25b61d9f8ee364f\TransitionUtils.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc64a25b61d9f8ee364f\TransitionUtils_MatrixEvaluator.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc64ee486da937c010f4\ButtonRenderer.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc64ee486da937c010f4\FrameRenderer.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc64ee486da937c010f4\ImageRenderer.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc64ee486da937c010f4\LabelRenderer.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc64f168f0f6988242ef\MainActivity.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\crc64fdbeeba101bd56dc\RgGestureDetectorListener.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\mono\androidx\appcompat\app\ActionBar_OnMenuVisibilityListenerImplementor.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\mono\androidx\appcompat\app\ActionBar_OnNavigationListenerImplementor.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\mono\androidx\appcompat\app\ActionBar_TabListenerImplementor.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\mono\androidx\appcompat\widget\ActionMenuView_OnMenuItemClickListenerImplementor.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\mono\androidx\appcompat\widget\ContentFrameLayout_OnAttachListenerImplementor.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\mono\androidx\appcompat\widget\FitWindowsViewGroup_OnFitSystemWindowsListenerImplementor.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\mono\androidx\appcompat\widget\MenuItemHoverListenerImplementor.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\mono\androidx\appcompat\widget\PopupMenu_OnDismissListenerImplementor.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\mono\androidx\appcompat\widget\PopupMenu_OnMenuItemClickListenerImplementor.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\mono\androidx\appcompat\widget\SearchView_OnCloseListenerImplementor.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\mono\androidx\appcompat\widget\SearchView_OnQueryTextListenerImplementor.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\mono\androidx\appcompat\widget\SearchView_OnSuggestionListenerImplementor.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\mono\androidx\appcompat\widget\ShareActionProvider_OnShareTargetSelectedListenerImplementor.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\mono\androidx\appcompat\widget\Toolbar_OnMenuItemClickListenerImplementor.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\mono\androidx\appcompat\widget\ViewStubCompat_OnInflateListenerImplementor.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\mono\androidx\asynclayoutinflater\view\AsyncLayoutInflater_OnInflateFinishedListenerImplementor.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\mono\androidx\core\app\SharedElementCallback_OnSharedElementsReadyListenerImplementor.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\mono\androidx\core\os\CancellationSignal_OnCancelListenerImplementor.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\mono\androidx\core\view\accessibility\AccessibilityManagerCompat_AccessibilityStateChangeListenerImplementor.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\mono\androidx\core\view\accessibility\AccessibilityManagerCompat_TouchExplorationStateChangeListenerImplementor.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\mono\androidx\core\view\ActionProvider_SubUiVisibilityListenerImplementor.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\mono\androidx\core\view\ActionProvider_VisibilityListenerImplementor.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\mono\androidx\core\view\DragStartHelper_OnDragStartListenerImplementor.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\mono\androidx\core\view\inputmethod\InputConnectionCompat_OnCommitContentListenerImplementor.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\mono\androidx\core\view\MenuItemCompat_OnActionExpandListenerImplementor.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\mono\androidx\core\view\OnApplyWindowInsetsListenerImplementor.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\mono\androidx\core\view\ViewPropertyAnimatorListenerImplementor.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\mono\androidx\core\view\ViewPropertyAnimatorUpdateListenerImplementor.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\mono\androidx\core\widget\NestedScrollView_OnScrollChangeListenerImplementor.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\mono\androidx\drawerlayout\widget\DrawerLayout_DrawerListenerImplementor.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\mono\androidx\fragment\app\FragmentManager_OnBackStackChangedListenerImplementor.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\mono\androidx\loader\content\Loader_OnLoadCanceledListenerImplementor.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\mono\androidx\loader\content\Loader_OnLoadCompleteListenerImplementor.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\mono\androidx\recyclerview\widget\AsyncListDiffer_ListListenerImplementor.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\mono\androidx\recyclerview\widget\RecyclerView_ItemAnimator_ItemAnimatorFinishedListenerImplementor.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\mono\androidx\recyclerview\widget\RecyclerView_OnChildAttachStateChangeListenerImplementor.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\mono\androidx\recyclerview\widget\RecyclerView_OnItemTouchListenerImplementor.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\mono\androidx\recyclerview\widget\RecyclerView_RecyclerListenerImplementor.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\mono\androidx\slidingpanelayout\widget\SlidingPaneLayout_PanelSlideListenerImplementor.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\mono\androidx\swiperefreshlayout\widget\SwipeRefreshLayout_OnRefreshListenerImplementor.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\mono\androidx\transition\Transition_TransitionListenerImplementor.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\mono\androidx\viewpager\widget\ViewPager_OnAdapterChangeListenerImplementor.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\mono\androidx\viewpager\widget\ViewPager_OnPageChangeListenerImplementor.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\mono\android\app\ApplicationRegistration.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\mono\android\support\v4\media\session\MediaSessionCompat_OnActiveChangeListenerImplementor.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\mono\com\google\android\material\appbar\AppBarLayout_OnOffsetChangedListenerImplementor.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\mono\com\google\android\material\behavior\SwipeDismissBehavior_OnDismissListenerImplementor.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\mono\com\google\android\material\bottomnavigation\BottomNavigationView_OnNavigationItemReselectedListenerImplementor.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\mono\com\google\android\material\bottomnavigation\BottomNavigationView_OnNavigationItemSelectedListenerImplementor.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\mono\com\google\android\material\button\MaterialButtonToggleGroup_OnButtonCheckedListenerImplementor.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\mono\com\google\android\material\button\MaterialButton_OnCheckedChangeListenerImplementor.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\mono\com\google\android\material\card\MaterialCardView_OnCheckedChangeListenerImplementor.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\mono\com\google\android\material\chip\ChipGroup_OnCheckedChangeListenerImplementor.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\mono\com\google\android\material\datepicker\MaterialPickerOnPositiveButtonClickListenerImplementor.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\mono\com\google\android\material\internal\ViewUtils_OnApplyWindowInsetsListenerImplementor.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\mono\com\google\android\material\navigation\NavigationView_OnNavigationItemSelectedListenerImplementor.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\mono\com\google\android\material\shape\ShapeAppearancePathProvider_PathListenerImplementor.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\mono\com\google\android\material\slider\BaseOnChangeListenerImplementor.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\mono\com\google\android\material\slider\BaseOnSliderTouchListenerImplementor.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\mono\com\google\android\material\tabs\TabLayout_BaseOnTabSelectedListenerImplementor.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\mono\com\google\android\material\textfield\TextInputLayout_OnEditTextAttachedListenerImplementor.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\mono\com\google\android\material\textfield\TextInputLayout_OnEndIconChangedListenerImplementor.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\mono\MonoPackageManager_Resources.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\xamarin\essentials\fileProvider.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\bin\packaged_resources
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\src\com\companyname\app10\R.java
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\compressed_assemblies.arm64-v8a.s
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\compressed_assemblies.armeabi-v7a.s
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\compressed_assemblies.x86.s
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\compressed_assemblies.x86_64.s
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\typemaps.arm64-v8a.o
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\typemaps.armeabi-v7a.o
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\typemaps.x86.o
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\typemaps.x86_64.o
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\environment.arm64-v8a.o
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\environment.armeabi-v7a.o
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\environment.x86.o
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\environment.x86_64.o
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\compressed_assemblies.arm64-v8a.o
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\compressed_assemblies.armeabi-v7a.o
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\compressed_assemblies.x86.o
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\compressed_assemblies.x86_64.o
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\app_shared_libraries\arm64-v8a\libxamarin-app.so
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\app_shared_libraries\armeabi-v7a\libxamarin-app.so
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\app_shared_libraries\x86\libxamarin-app.so
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\app_shared_libraries\x86_64\libxamarin-app.so
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\android\bin\classes.dex
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\stamp\_CleanIntermediateIfNeeded.stamp
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\stamp\_CompileToDalvik.stamp
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\stamp\_ConvertCustomView.stamp
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\stamp\_ConvertResourcesCases.stamp
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\stamp\_GenerateJavaStubs.stamp
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\stamp\_GeneratePackageManagerJava.stamp
+D:\Xamarin\App10\App10\App10\App10.Android\obj\Debug\110\stamp\_ResolveLibraryProjectImports.stamp
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\bin\Debug\App10.Android.dll
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\bin\Debug\App10.Android.pdb
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\bin\Debug\com.companyname.app10.apk
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\bin\Debug\com.companyname.app10.aab
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\bin\Debug\com.companyname.app10-Signed.aab
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\bin\Debug\com.companyname.app10-Signed.apk
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\bin\Debug\com.companyname.app10-Signed.apk.idsig
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\bin\Debug\SensiML Test App.dll
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\bin\Debug\SensiML Test App.pdb
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\MonoAndroid,Version=v11.0.AssemblyAttributes.cs
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\build.props
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\adb.props
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\SensiML BLE Test App.Android.csprojAssemblyReference.cache
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\stamp\_BuildLibraryImportsCache.stamp
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\res.flag
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\lp\46\jl\files.cache
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\lp\47\jl\files.cache
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\lp\52\jl\files.cache
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\lp\53\jl\files.cache
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\lp\56\jl\files.cache
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\lp\57\jl\files.cache
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\lp\64\jl\files.cache
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\lp\65\jl\files.cache
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\lp\69\jl\files.cache
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\lp\70\jl\files.cache
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\lp\72\jl\files.cache
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\lp\73\jl\files.cache
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\lp\74\jl\files.cache
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\lp\75\jl\files.cache
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\lp\77\jl\files.cache
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\lp\78\jl\files.cache
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\lp\81\jl\files.cache
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\lp\89\jl\files.cache
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\R.txt
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\R.cs.flag
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\SensiML BLE Test App.Android.csproj.CoreCompileInputs.cache
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\SensiML BLE Test App.Android.csproj.CopyComplete
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\App10.Android.dll
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\App10.Android.pdb
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\bin\com.companyname.app10.apk
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\bin\base.zip
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\bin\com.companyname.app10.aab
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\bin\com.companyname.app10.apks
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\res\values\styles.xml
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\res\values\colors.xml
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\res\mipmap-anydpi-v26\icon.xml
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\res\mipmap-anydpi-v26\icon_round.xml
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\res\mipmap-hdpi\icon.png
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\res\mipmap-hdpi\launcher_foreground.png
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\res\mipmap-mdpi\icon.png
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\res\mipmap-mdpi\launcher_foreground.png
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\res\mipmap-xhdpi\icon.png
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\res\mipmap-xhdpi\launcher_foreground.png
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\res\mipmap-xxhdpi\icon.png
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\res\mipmap-xxhdpi\launcher_foreground.png
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\res\mipmap-xxxhdpi\icon.png
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\res\mipmap-xxxhdpi\launcher_foreground.png
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\res\drawable\xamarin_logo.png
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\res\drawable\icon_about.png
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\res\drawable\icon_feed.png
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\res\drawable\settings.png
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\uploadflags.txt
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\resolvedassemblies.hash
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\App10.Android.dll
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\App10.Android.pdb
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\FormsViewGroup.dll
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\FormsViewGroup.pdb
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\Java.Interop.dll
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\Mono.Android.dll
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\Mono.Android.pdb
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\Mono.Security.dll
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\Mono.Security.pdb
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\mscorlib.dll
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\mscorlib.pdb
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\netstandard.dll
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\Newtonsoft.Json.dll
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\Plugin.BLE.Abstractions.dll
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\Plugin.BLE.Abstractions.pdb
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\Plugin.BLE.dll
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\Plugin.BLE.dll.mdb
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\Rg.Plugins.Popup.dll
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\Rg.Plugins.Popup.pdb
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\SensiML Test App.dll
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\SensiML Test App.pdb
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\System.ComponentModel.Composition.dll
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\System.ComponentModel.Composition.pdb
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\System.Core.dll
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\System.Core.pdb
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\System.Data.DataSetExtensions.dll
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\System.Data.DataSetExtensions.pdb
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\System.Data.dll
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\System.Data.pdb
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\System.dll
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\System.Drawing.Common.dll
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\System.Drawing.Common.pdb
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\System.IO.Compression.dll
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\System.IO.Compression.FileSystem.dll
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\System.IO.Compression.FileSystem.pdb
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\System.IO.Compression.pdb
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\System.Net.Http.dll
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\System.Net.Http.pdb
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\System.Numerics.dll
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\System.Numerics.pdb
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\System.Numerics.Vectors.dll
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\System.Numerics.Vectors.pdb
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\System.pdb
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\System.Runtime.dll
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\System.Runtime.Serialization.dll
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\System.Runtime.Serialization.pdb
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\System.ServiceModel.Internals.dll
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\System.ServiceModel.Internals.pdb
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\System.Transactions.dll
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\System.Transactions.pdb
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\System.Web.Services.dll
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\System.Web.Services.pdb
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\System.Xml.dll
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\System.Xml.Linq.dll
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\System.Xml.Linq.pdb
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\System.Xml.pdb
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Activity.dll
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Activity.pdb
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Annotation.dll
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Annotation.Experimental.dll
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Annotation.Experimental.pdb
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Annotation.pdb
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.AppCompat.AppCompatResources.dll
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.AppCompat.AppCompatResources.pdb
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.AppCompat.dll
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.AppCompat.pdb
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Arch.Core.Common.dll
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Arch.Core.Common.pdb
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Arch.Core.Runtime.dll
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Arch.Core.Runtime.pdb
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.AsyncLayoutInflater.dll
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.AsyncLayoutInflater.pdb
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Browser.dll
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Browser.pdb
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.CardView.dll
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.CardView.pdb
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Collection.dll
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Collection.pdb
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.CoordinatorLayout.dll
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.CoordinatorLayout.pdb
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Core.dll
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Core.pdb
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.CursorAdapter.dll
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.CursorAdapter.pdb
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.CustomView.dll
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.CustomView.pdb
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.DocumentFile.dll
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.DocumentFile.pdb
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.DrawerLayout.dll
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.DrawerLayout.pdb
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Fragment.dll
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Fragment.pdb
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Interpolator.dll
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Interpolator.pdb
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Legacy.Support.Core.UI.dll
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Legacy.Support.Core.UI.pdb
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Legacy.Support.Core.Utils.dll
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Legacy.Support.Core.Utils.pdb
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Legacy.Support.V4.dll
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Legacy.Support.V4.pdb
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.Common.dll
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.Common.pdb
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.Core.dll
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.Core.pdb
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.dll
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.pdb
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.Runtime.dll
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.Runtime.pdb
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.ViewModel.dll
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.ViewModel.pdb
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.ViewModelSavedState.dll
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.ViewModelSavedState.pdb
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Loader.dll
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Loader.pdb
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.LocalBroadcastManager.dll
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.LocalBroadcastManager.pdb
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Media.dll
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Media.pdb
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.MultiDex.dll
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.MultiDex.pdb
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Print.dll
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Print.pdb
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.RecyclerView.dll
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.RecyclerView.pdb
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.SavedState.dll
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.SavedState.pdb
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.SlidingPaneLayout.dll
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.SlidingPaneLayout.pdb
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.SwipeRefreshLayout.dll
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.SwipeRefreshLayout.pdb
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Transition.dll
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Transition.pdb
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.VectorDrawable.Animated.dll
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.VectorDrawable.Animated.pdb
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.VectorDrawable.dll
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.VectorDrawable.pdb
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.VersionedParcelable.dll
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.VersionedParcelable.pdb
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.ViewPager.dll
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.ViewPager.pdb
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.ViewPager2.dll
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.ViewPager2.pdb
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.Essentials.dll
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.Essentials.pdb
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.Forms.Core.dll
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.Forms.Core.pdb
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.Forms.Platform.Android.dll
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.Forms.Platform.Android.pdb
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.Forms.Platform.dll
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.Forms.Xaml.dll
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.Forms.Xaml.pdb
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.Google.Android.Material.dll
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.Google.Android.Material.pdb
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\Xamarin.Google.Guava.ListenableFuture.dll
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\typemaps.arm64-v8a.s
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\typemaps.armeabi-v7a.s
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\typemaps.x86.s
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\typemaps.x86_64.s
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\typemaps.armeabi-v7a-shared.inc
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\typemaps.shared.inc
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\AndroidManifest.xml
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\AndroidManifest.xml
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\__environment__.txt
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\mono\MonoRuntimeProvider.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\machine.config
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\bin\mono.android.jar
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\static.flag
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\buildid.txt
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\environment.arm64-v8a.s
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\environment.armeabi-v7a.s
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\environment.x86.s
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\environment.x86_64.s
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnCancelListenerImplementor.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnClickListenerImplementor.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\androidx\appcompat\R.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\androidx\appcompat\resources\R.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\androidx\appcompat\widget\Toolbar_NavigationOnClickEventDispatcher.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\androidx\browser\customtabs\CustomTabsClient_CustomTabsCallbackImpl.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\androidx\browser\R.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\androidx\cardview\R.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\androidx\coordinatorlayout\R.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\androidx\core\R.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\androidx\drawerlayout\R.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\androidx\fragment\R.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\androidx\lifecycle\runtime\R.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\androidx\media\R.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\androidx\recyclerview\R.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\androidx\savedstate\R.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\androidx\swiperefreshlayout\R.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\androidx\transition\R.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\androidx\viewpager2\R.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\com\google\android\material\R.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\com\google\android\material\snackbar\Snackbar_SnackbarActionClickImplementor.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc64087678da79fdfe22\BluetoothStatusBroadcastReceiver.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc64087678da79fdfe22\BondStatusBroadcastReceiver.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc640d7c6d57b8a5f296\Adapter_Api18BleScanCallback.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc640d7c6d57b8a5f296\Adapter_Api21BleScanCallback.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc640d7c6d57b8a5f296\GattCallback.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc6414252951f3f66c67\CarouselViewAdapter_2.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc6414252951f3f66c67\RecyclerViewScrollListener_2.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc64396a3fe5f8138e3f\CustomTabsServiceConnectionImpl.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc64396a3fe5f8138e3f\KeepAliveService.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643dd37f507f3d9710\PopupPageRenderer.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ActionSheetRenderer.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ActivityIndicatorRenderer.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\AHorizontalScrollView.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\AndroidActivity.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\BaseCellView.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\BorderDrawable.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\BoxRenderer.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ButtonRenderer.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonClickListener.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonTouchListener.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CarouselPageAdapter.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CarouselPageRenderer.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CarouselSpacingItemDecoration.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer_CarouselViewOnScrollListener.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer_CarouselViewwOnGlobalLayoutListener.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CellAdapter.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CellRenderer_RendererHolder.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CenterSnapHelper.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CheckBoxDesignerRenderer.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CheckBoxRenderer.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CheckBoxRendererBase.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CircularProgress.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CollectionViewRenderer.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ColorChangeRevealDrawable.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ConditionalFocusLayout.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ContainerView.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CustomFrameLayout.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\DataChangeObserver.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\DatePickerRenderer.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\DatePickerRendererBase_1.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\DragAndDropGestureHandler.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\DragAndDropGestureHandler_CustomLocalStateData.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EdgeSnapHelper.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EditorEditText.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EditorRenderer.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EditorRendererBase_1.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EllipseRenderer.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EllipseView.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EmptyViewAdapter.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EndSingleSnapHelper.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EndSnapHelper.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EntryAccessibilityDelegate.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EntryCellEditText.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EntryCellView.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EntryEditText.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EntryRenderer.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EntryRendererBase_1.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FlyoutPageContainer.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FlyoutPageRenderer.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FlyoutPageRendererNonAppCompat.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_FontSpan.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_LineHeightSpan.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_TextDecorationSpan.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FormsAnimationDrawable.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FormsAppCompatActivity.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FormsApplicationActivity.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FormsEditText.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FormsEditTextBase.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FormsImageView.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FormsSeekBar.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FormsTextView.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FormsVideoView.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FormsWebChromeClient.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FormsWebViewClient.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FrameRenderer.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FrameRenderer_FrameDrawable.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\GenericAnimatorListener.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\GenericGlobalLayoutListener.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\GenericMenuClickListener.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\GestureManager_TapAndPanGestureDetector.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\GradientStrokeDrawable.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\GradientStrokeDrawable_GradientShaderFactory.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\GridLayoutSpanSizeLookup.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\GroupableItemsViewAdapter_2.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\GroupableItemsViewRenderer_3.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\GroupedListViewAdapter.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ImageButtonRenderer.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ImageCache_CacheEntry.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ImageCache_FormsLruCache.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ImageRenderer.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\IndicatorViewRenderer.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\InnerGestureListener.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\InnerScaleListener.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ItemContentView.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ItemsViewAdapter_2.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ItemsViewRenderer_3.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\LabelRenderer.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\LineRenderer.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\LineView.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ListViewAdapter.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ListViewRenderer.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ListViewRenderer_Container.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ListViewRenderer_ListViewScrollDetector.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ListViewRenderer_SwipeRefreshLayoutWithFixedNestedScrolling.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\LocalizedDigitsKeyListener.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\MasterDetailContainer.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\MasterDetailRenderer.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\NativeViewWrapperRenderer.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\NavigationRenderer.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\NongreedySnapHelper.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\NongreedySnapHelper_InitialScrollListener.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ObjectJavaBox_1.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer_Renderer.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PageContainer.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedFragment.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedSupportFragment.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PageRenderer.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PathRenderer.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PathView.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PickerEditText.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PickerManager_PickerListener.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PickerRenderer.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PlatformRenderer.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\Platform_DefaultRenderer.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PolygonRenderer.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PolygonView.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PolylineRenderer.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PolylineView.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PositionalSmoothScroller.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PowerSaveModeBroadcastReceiver.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ProgressBarRenderer.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\RadioButtonRenderer.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\RectangleRenderer.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\RectView.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\RecyclerViewContainer.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\RefreshViewRenderer.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ScrollHelper.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ScrollLayoutManager.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ScrollViewContainer.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ScrollViewRenderer.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\SearchBarRenderer.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\SelectableItemsViewAdapter_2.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\SelectableItemsViewRenderer_3.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\SelectableViewHolder.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShapeRenderer_2.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShapeView.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellContentFragment.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellFlyoutLayout.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_ElementViewHolder.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_LinearLayoutWithFocus.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellFlyoutRenderer.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer_HeaderContainer.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellFragmentPagerAdapter.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellItemRenderer.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellItemRendererBase.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellPageContainer.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellRenderer_SplitDrawable.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellSearchView.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_CustomFilter.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_ObjectWrapper.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellSearchView_ClipDrawableWrapper.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellSectionRenderer.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker_FlyoutIconDrawerDrawable.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\SimpleViewHolder.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\SingleSnapHelper.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\SizedItemContentView.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\SliderRenderer.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\SpacingItemDecoration.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\StartSingleSnapHelper.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\StartSnapHelper.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\StepperRenderer.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\StepperRendererManager_StepperListener.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\StructuredItemsViewAdapter_2.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\StructuredItemsViewRenderer_3.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\SwipeViewRenderer.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\SwitchCellView.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\SwitchRenderer.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\TabbedRenderer.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\TableViewModelRenderer.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\TableViewRenderer.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\TemplatedItemViewHolder.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\TextCellRenderer_TextCellView.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\TextViewHolder.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\TimePickerRenderer.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\TimePickerRendererBase_1.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer_LongPressGestureListener.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer_TapGestureListener.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ViewRenderer.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ViewRenderer_2.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\VisualElementRenderer_1.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\VisualElementTracker_AttachTracker.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\WebViewRenderer.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\WebViewRenderer_JavascriptResult.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\ButtonRenderer.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\CarouselPageRenderer.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\FormsFragmentPagerAdapter_1.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\FormsViewPager.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\FragmentContainer.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\FrameRenderer.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\MasterDetailPageRenderer.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_ClickListener.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_Container.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_DrawerMultiplexedListener.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\PickerRenderer.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\PickerRendererBase_1.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\Platform_ModalContainer.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\ShellFragmentContainer.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\SwitchRenderer.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\TabbedPageRenderer.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\ViewRenderer_2.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\AccelerometerListener.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\ActivityLifecycleContextListener.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\BarometerListener.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\BatteryBroadcastReceiver.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\ClipboardChangeListener.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\ConnectivityBroadcastReceiver.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\EnergySaverBroadcastReceiver.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\GyroscopeListener.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\IntermediateActivity.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\Listener.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\MagnetometerListener.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\OrientationSensorListener.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\SensorListener.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\SingleLocationListener.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\TextToSpeechImplementation.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\WebAuthenticatorCallbackActivity.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\WebAuthenticatorIntermediateActivity.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc64a25b61d9f8ee364f\FloatArrayEvaluator.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc64a25b61d9f8ee364f\RectEvaluator.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc64a25b61d9f8ee364f\TransitionUtils.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc64a25b61d9f8ee364f\TransitionUtils_MatrixEvaluator.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc64ee486da937c010f4\ButtonRenderer.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc64ee486da937c010f4\FrameRenderer.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc64ee486da937c010f4\ImageRenderer.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc64ee486da937c010f4\LabelRenderer.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc64f168f0f6988242ef\MainActivity.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\crc64fdbeeba101bd56dc\RgGestureDetectorListener.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\mono\androidx\appcompat\app\ActionBar_OnMenuVisibilityListenerImplementor.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\mono\androidx\appcompat\app\ActionBar_OnNavigationListenerImplementor.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\mono\androidx\appcompat\app\ActionBar_TabListenerImplementor.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\mono\androidx\appcompat\widget\ActionMenuView_OnMenuItemClickListenerImplementor.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\mono\androidx\appcompat\widget\ContentFrameLayout_OnAttachListenerImplementor.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\mono\androidx\appcompat\widget\FitWindowsViewGroup_OnFitSystemWindowsListenerImplementor.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\mono\androidx\appcompat\widget\MenuItemHoverListenerImplementor.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\mono\androidx\appcompat\widget\PopupMenu_OnDismissListenerImplementor.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\mono\androidx\appcompat\widget\PopupMenu_OnMenuItemClickListenerImplementor.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\mono\androidx\appcompat\widget\SearchView_OnCloseListenerImplementor.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\mono\androidx\appcompat\widget\SearchView_OnQueryTextListenerImplementor.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\mono\androidx\appcompat\widget\SearchView_OnSuggestionListenerImplementor.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\mono\androidx\appcompat\widget\ShareActionProvider_OnShareTargetSelectedListenerImplementor.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\mono\androidx\appcompat\widget\Toolbar_OnMenuItemClickListenerImplementor.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\mono\androidx\appcompat\widget\ViewStubCompat_OnInflateListenerImplementor.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\mono\androidx\asynclayoutinflater\view\AsyncLayoutInflater_OnInflateFinishedListenerImplementor.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\mono\androidx\core\app\SharedElementCallback_OnSharedElementsReadyListenerImplementor.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\mono\androidx\core\os\CancellationSignal_OnCancelListenerImplementor.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\mono\androidx\core\view\accessibility\AccessibilityManagerCompat_AccessibilityStateChangeListenerImplementor.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\mono\androidx\core\view\accessibility\AccessibilityManagerCompat_TouchExplorationStateChangeListenerImplementor.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\mono\androidx\core\view\ActionProvider_SubUiVisibilityListenerImplementor.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\mono\androidx\core\view\ActionProvider_VisibilityListenerImplementor.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\mono\androidx\core\view\DragStartHelper_OnDragStartListenerImplementor.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\mono\androidx\core\view\inputmethod\InputConnectionCompat_OnCommitContentListenerImplementor.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\mono\androidx\core\view\MenuItemCompat_OnActionExpandListenerImplementor.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\mono\androidx\core\view\OnApplyWindowInsetsListenerImplementor.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\mono\androidx\core\view\ViewPropertyAnimatorListenerImplementor.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\mono\androidx\core\view\ViewPropertyAnimatorUpdateListenerImplementor.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\mono\androidx\core\widget\NestedScrollView_OnScrollChangeListenerImplementor.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\mono\androidx\drawerlayout\widget\DrawerLayout_DrawerListenerImplementor.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\mono\androidx\fragment\app\FragmentManager_OnBackStackChangedListenerImplementor.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\mono\androidx\loader\content\Loader_OnLoadCanceledListenerImplementor.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\mono\androidx\loader\content\Loader_OnLoadCompleteListenerImplementor.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\mono\androidx\recyclerview\widget\AsyncListDiffer_ListListenerImplementor.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\mono\androidx\recyclerview\widget\RecyclerView_ItemAnimator_ItemAnimatorFinishedListenerImplementor.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\mono\androidx\recyclerview\widget\RecyclerView_OnChildAttachStateChangeListenerImplementor.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\mono\androidx\recyclerview\widget\RecyclerView_OnItemTouchListenerImplementor.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\mono\androidx\recyclerview\widget\RecyclerView_RecyclerListenerImplementor.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\mono\androidx\slidingpanelayout\widget\SlidingPaneLayout_PanelSlideListenerImplementor.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\mono\androidx\swiperefreshlayout\widget\SwipeRefreshLayout_OnRefreshListenerImplementor.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\mono\androidx\transition\Transition_TransitionListenerImplementor.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\mono\androidx\viewpager\widget\ViewPager_OnAdapterChangeListenerImplementor.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\mono\androidx\viewpager\widget\ViewPager_OnPageChangeListenerImplementor.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\mono\android\app\ApplicationRegistration.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\mono\android\support\v4\media\session\MediaSessionCompat_OnActiveChangeListenerImplementor.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\mono\com\google\android\material\appbar\AppBarLayout_OnOffsetChangedListenerImplementor.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\mono\com\google\android\material\behavior\SwipeDismissBehavior_OnDismissListenerImplementor.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\mono\com\google\android\material\bottomnavigation\BottomNavigationView_OnNavigationItemReselectedListenerImplementor.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\mono\com\google\android\material\bottomnavigation\BottomNavigationView_OnNavigationItemSelectedListenerImplementor.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\mono\com\google\android\material\button\MaterialButtonToggleGroup_OnButtonCheckedListenerImplementor.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\mono\com\google\android\material\button\MaterialButton_OnCheckedChangeListenerImplementor.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\mono\com\google\android\material\card\MaterialCardView_OnCheckedChangeListenerImplementor.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\mono\com\google\android\material\chip\ChipGroup_OnCheckedChangeListenerImplementor.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\mono\com\google\android\material\datepicker\MaterialPickerOnPositiveButtonClickListenerImplementor.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\mono\com\google\android\material\internal\ViewUtils_OnApplyWindowInsetsListenerImplementor.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\mono\com\google\android\material\navigation\NavigationView_OnNavigationItemSelectedListenerImplementor.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\mono\com\google\android\material\shape\ShapeAppearancePathProvider_PathListenerImplementor.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\mono\com\google\android\material\slider\BaseOnChangeListenerImplementor.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\mono\com\google\android\material\slider\BaseOnSliderTouchListenerImplementor.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\mono\com\google\android\material\tabs\TabLayout_BaseOnTabSelectedListenerImplementor.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\mono\com\google\android\material\textfield\TextInputLayout_OnEditTextAttachedListenerImplementor.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\mono\com\google\android\material\textfield\TextInputLayout_OnEndIconChangedListenerImplementor.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\mono\MonoPackageManager_Resources.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\xamarin\essentials\fileProvider.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\bin\packaged_resources
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\src\com\companyname\app10\R.java
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\compressed_assemblies.arm64-v8a.s
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\compressed_assemblies.armeabi-v7a.s
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\compressed_assemblies.x86.s
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\compressed_assemblies.x86_64.s
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\typemaps.arm64-v8a.o
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\typemaps.armeabi-v7a.o
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\typemaps.x86.o
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\typemaps.x86_64.o
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\environment.arm64-v8a.o
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\environment.armeabi-v7a.o
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\environment.x86.o
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\environment.x86_64.o
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\compressed_assemblies.arm64-v8a.o
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\compressed_assemblies.armeabi-v7a.o
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\compressed_assemblies.x86.o
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\compressed_assemblies.x86_64.o
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\app_shared_libraries\arm64-v8a\libxamarin-app.so
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\app_shared_libraries\armeabi-v7a\libxamarin-app.so
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\app_shared_libraries\x86\libxamarin-app.so
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\app_shared_libraries\x86_64\libxamarin-app.so
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\bin\classes.dex
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\stamp\_CleanIntermediateIfNeeded.stamp
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\stamp\_CompileToDalvik.stamp
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\stamp\_ConvertCustomView.stamp
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\stamp\_ConvertResourcesCases.stamp
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\stamp\_GenerateJavaStubs.stamp
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\stamp\_GeneratePackageManagerJava.stamp
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\stamp\_ResolveLibraryProjectImports.stamp
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\Microsoft.CSharp.dll
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\android\assets\Microsoft.CSharp.pdb
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\res\drawable\smartphone.png
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\res\drawable\ipaddress.png
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\res\drawable\link.png
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\res\drawable\bluetooth.png
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\res\drawable\loupe.png
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\res\drawable\click.png
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\res\drawable\logo.png
+D:\Xamarin\SensiML BLE Test App\SensiML BLE Test App\App10\App10.Android\obj\Debug\110\res\drawable\logo1.png

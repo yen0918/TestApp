@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App10.Views.SetupEvent"
+             Title="Events"
+             BackgroundColor="#F0FFFF">
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <DataTemplate x:Key="Status">
+                <Frame BorderColor="#D2D1D1" HasShadow="True" HeightRequest="40" Margin="10,0,0,0"><!--heighRequest=50-->
+                <StackLayout>
+                        <StackLayout Orientation="Horizontal">
+                            <Label Text="Class: " FontSize="20"/>
+                            <Label Text="{Binding Class}" FontSize="20"/>
+                            <Label Text="(" FontSize="20"/>
+                            <Label Text="{Binding Number}" FontSize="20"/>
+                            <Label Text=")" FontSize="20"/>
+                        </StackLayout>
+                    </StackLayout>
+                    </Frame>
+            </DataTemplate>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+    <ContentPage.Content>
+
+        <ScrollView Grid.Row="1">
+            <StackLayout>
+
+                
+                
+                <Label Text="Click here to import your model json string or you can setup a custom configuration by modifying the list below" FontSize="14" TextColor="Gray" HorizontalOptions="StartAndExpand" Margin="12,10,0,0"/>
+                <StackLayout Orientation="Horizontal">
+                    <Button Text="Import model json" Clicked="btn_Import" FontSize="20" HorizontalOptions="StartAndExpand" Margin="12,10,0,0"/>
+                    <Button Text="OK" Clicked="Button_Clicked" x:Name="OK_btn" FontSize="20" HorizontalOptions="StartAndExpand" Margin="12,10,0,0"/>
+                </StackLayout>
+                
+                <CollectionView  x:Name="ListView_class"   
+                  ItemTemplate="{StaticResource Key=Status}"
+                  Header=""
+                  Footer="" 
+                  HeightRequest="400"
+                  Margin="12,0,12,0">
+                </CollectionView>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>
